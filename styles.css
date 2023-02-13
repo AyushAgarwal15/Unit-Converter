@@ -9,15 +9,15 @@ body {
 
 .container {
   background: #1f2937;
-  height: 729px;
-  width: 550px;
-  margin-top: 2%;
+  height: 45.563rem;
+  width: 34.375rem;
+  margin: 1%;
 }
 
 .upper-div {
   background: #6943ff;
-  height: 285px;
-  width: 550px;
+  height: 17.813rem;
+  width: 34.375rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -34,8 +34,8 @@ heading {
 
 input {
   background-color: inherit;
-  height: 83px;
-  width: 117px;
+  height: 5.188rem;
+  width: 7.313rem;
   border: 1px solid white;
   color: white;
   text-align: center;
@@ -52,8 +52,8 @@ input::-webkit-inner-spin-button {
 }
 
 button {
-  width: 122px;
-  height: 40px;
+  width: 7.625rem;
+  height: 2.5rem;
   background: #ffffff;
   box-shadow: 5px 12px 5px rgb(0 0 0 / 54%);
   border-radius: 5px;
@@ -65,8 +65,8 @@ button {
 }
 
 .box {
-  width: 500px;
-  height: 108.57px;
+  width: 31.25rem;
+  height: 6.786rem;
   background: #273549;
   border-radius: 2px;
   margin: 24px 24px;
@@ -78,8 +78,8 @@ button {
 }
 
 .box-heading {
-  width: 346px;
-  height: 25px;
+  width: 21.625rem;
+  height: 1.563rem;
   color: #ccc1ff;
   text-align: center;
   margin-bottom: 0px;
