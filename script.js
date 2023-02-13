@@ -8,7 +8,6 @@ BTN.addEventListener("click", convert);
 
 function convert() {
   var val = INPUT.value;
-  INPUT.value = "";
   length(val);
   volume(val);
   mass(val);
