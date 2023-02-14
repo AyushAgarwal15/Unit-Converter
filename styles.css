@@ -97,3 +97,18 @@ button:hover {
   border: 2px solid #ffffff;
   border-style: inset;
 }
+
+@media (max-width: 590px) {
+  .container {
+    width: 30rem;
+    margin: 1%;
+  }
+
+  .upper-div {
+    width: 30rem;
+  }
+
+  .box {
+    width: 27rem;
+  }
+}
