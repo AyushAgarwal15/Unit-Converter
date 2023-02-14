@@ -109,6 +109,7 @@ button:hover {
   }
 
   .box {
+    text-align: center;
     width: 16rem;
   }
 }
