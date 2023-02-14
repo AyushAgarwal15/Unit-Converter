@@ -100,15 +100,14 @@ button:hover {
 
 @media (max-width: 590px) {
   .container {
-    width: 30rem;
-    margin: 1%;
+    width: 19rem;
   }
 
   .upper-div {
-    width: 30rem;
+    width: 19rem;
   }
 
   .box {
-    width: 27rem;
+    width: 16rem;
   }
 }
